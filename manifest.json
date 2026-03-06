@@ -1,6 +1,6 @@
 {
-  "version": "8.1",
-  "description": "New launcher title",
+  "version": "9.0",
+  "description": "Custom launcher with banner image and dark theme",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -328,9 +328,9 @@
       "release": "v8.0"
     },
     "LeeroyMuLauncher.dll": {
-      "sha256": "5688540f64f8ca2036d12b58c54ae3da864b94e039c17b2ff905e23f57048438",
-      "size": 76288,
-      "release": "v8.1"
+      "sha256": "df46655b4e50f37e98fcffef10caf1494664bbeae865ef60bae58e5beb4caf76",
+      "size": 1886720,
+      "release": "v9.0"
     },
     "LeeroyMuLauncher.exe": {
       "sha256": "a5bf310b0dc761b0b14de6dab5fcd2a2f2c924d93270ea3d669948a5dac60aa2",
