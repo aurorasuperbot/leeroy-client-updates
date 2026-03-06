@@ -1,1 +1,341 @@
-{}
+{
+  "version": "8.0",
+  "description": "Evolution quests + all fixes",
+  "files": {
+    "Data/Local/BuffEffect.bmd": {
+      "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
+      "size": 20074,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/BuffEffect_eng.bmd": {
+      "sha256": "a25b832b384dfbfab7d861a81b8111d97bb3e473a98c97431a67a3296a151e48",
+      "size": 24972,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/Dialog_eng.bmd": {
+      "sha256": "3429bf9a6ecb8464a605c6c13777fe1bf1645352e4014fdc262cb272501ca513",
+      "size": 204800,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/ItemLevelTooltip_eng.bmd": {
+      "sha256": "db0954b54013e1b2e7961b5591079ac409594f0cc48c3c29e31dbae00478b41f",
+      "size": 13060,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/ItemTooltipText_eng.bmd": {
+      "sha256": "a30772cb311279d6c272bff44cb6356db024eb663eccce5b93cbc46712f7ccf4",
+      "size": 133124,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/ItemTooltip_eng.bmd": {
+      "sha256": "84e983db305a552467dd37101d425f0ee6cc761d0a7cb9803856d83c2c41a0b4",
+      "size": 1015812,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/JewelOfHarmonyOption_eng.bmd": {
+      "sha256": "8994bfd95e724d4a066fbdedc3f34dc03baa6ed3fb37f10e69c31f81f791e913",
+      "size": 5400,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd": {
+      "sha256": "4f2f816cff8a5ddf28dda24b6b4f3e63cb5b2a5072cbd3c6134976688cf74919",
+      "size": 557056,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/MasterSkillTooltip_eng.bmd": {
+      "sha256": "702a92bab2c23b1083b2bb7b78700081dd70c3d119fa8e8c7a606a873e87dd13",
+      "size": 315396,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/MoveReq_eng.bmd": {
+      "sha256": "bbd2c2ec01842f9b296fe21ca0f8d4e815e95ac025277edeec6161afbe74c81c",
+      "size": 4204,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/QuestWords_eng.bmd": {
+      "sha256": "2487b6e90ac044f70506936add51eb069c4c6a4a7451e2aaa831d5ed0da2297e",
+      "size": 273861,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/Quest_eng.bmd": {
+      "sha256": "561994c1857edf66c253d868c9babc9b86ab41af104ec162c4131e3bd850f89b",
+      "size": 148800,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/item.bmd": {
+      "sha256": "fac7376ec328aedd58976ae83f352425cf0e661a21abdcf88107b143a8cfb683",
+      "size": 688132,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/item_eng.bmd": {
+      "sha256": "128412a531a1c878645bb403a9e421b05256e8bcfdcf90d56503e96784745e42",
+      "size": 688132,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/itemsetoption_eng.bmd": {
+      "sha256": "cbbfe7a3bdeb1a633c4e80087cfb49ec4de1b1b4df4df770901bde4e40304af7",
+      "size": 7044,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/itemsettype.bmd": {
+      "sha256": "75627df8bb200b16bab10eb313ac5415bec017ab2632a438c11eb6fdf3bd1498",
+      "size": 32772,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/skill_eng.bmd": {
+      "sha256": "76bf90c5984c48ed3749e91d64c782d71e92e024084c9a003e3650f7407dcc0c",
+      "size": 57204,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/slide_eng.bmd": {
+      "sha256": "e029f7e6dd0610dfe5d3aa17bc98ca50cf2bde43520e09746c407ccdd5667662",
+      "size": 41008,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/socketitem_eng.bmd": {
+      "sha256": "5b995194ff399e91f4c50d751523f2e7bceb26fcbe775c99b0ff2d58c4b474e6",
+      "size": 15600,
+      "release": "v8.0"
+    },
+    "Data/Local/Eng/text_eng.bmd": {
+      "sha256": "8b7694be71d51d3ed8a578056f009ccc14be112878ab9599938718aa77654523",
+      "size": 134403,
+      "release": "v8.0"
+    },
+    "Data/Local/Filter.bmd": {
+      "sha256": "0fc0f04b6621c03b5584d4bdbf860198f5b1466a9afbc3e87b65b254f40d5606",
+      "size": 20005,
+      "release": "v8.0"
+    },
+    "Data/Local/FilterName.bmd": {
+      "sha256": "6028a636657a583adfae3ce15fadcc4195c2ef47819c1a326572dc1c3337032f",
+      "size": 10004,
+      "release": "v8.0"
+    },
+    "Data/Local/Item.bmd": {
+      "sha256": "f75f2154e6d0ad9b42e2b07beb6d6c4eeb6cb9ce00b210de03ca5044766ace10",
+      "size": 688132,
+      "release": "v8.0"
+    },
+    "Data/Local/ItemAddOption.bmd": {
+      "sha256": "dd6f631837daf9400bfa5937b78e403878e3f5825b5fbdc2a16e872e9148d0fa",
+      "size": 131074,
+      "release": "v8.0"
+    },
+    "Data/Local/ItemSetOption.bmd": {
+      "sha256": "e2ea1583d87c74bf333530a3c1db2a125f55e38eaddc4143d21e98a067d05b9e",
+      "size": 7044,
+      "release": "v8.0"
+    },
+    "Data/Local/MacroConfig.bmd": {
+      "sha256": "0229a5f56a6a7a329f4562119ebc4b507895645a1b8d33d21e8308a3a6d5c13d",
+      "size": 4,
+      "release": "v8.0"
+    },
+    "Data/Local/MapCharacters.bmd": {
+      "sha256": "778eaa2f38d06deace6a67ccadbe03d55fd7e067037681626c71bc222dc0d736",
+      "size": 3100,
+      "release": "v8.0"
+    },
+    "Data/Local/MasterSkillTree.bmd": {
+      "sha256": "af5ee4c9d74a292d9e1152afcb199d3d70713674393ed97b435beba9d279f02d",
+      "size": 3217,
+      "release": "v8.0"
+    },
+    "Data/Local/MasterSkillTreeData.bmd": {
+      "sha256": "f788a755320ee272565023f278974069245b0b77495c0564f495b4598695a032",
+      "size": 12292,
+      "release": "v8.0"
+    },
+    "Data/Local/MonsterSkill.bmd": {
+      "sha256": "46a8112e550531b1ab18d7fc61379b50e2dbe4a2c57e5de3f8da1f4a4c977e1a",
+      "size": 2692,
+      "release": "v8.0"
+    },
+    "Data/Local/Movereq.bmd": {
+      "sha256": "9ff6dbf68e8ca80d9dfe94030ab054321e175c7f4bddc1b386b2c79c48fd7e29",
+      "size": 4204,
+      "release": "v8.0"
+    },
+    "Data/Local/NPCDialogue.bmd": {
+      "sha256": "9b7dbdc700da0b9886f6707047c613968d58aecab8fd8df62d137adf8cd1ba92",
+      "size": 5104,
+      "release": "v8.0"
+    },
+    "Data/Local/PetData.bmd": {
+      "sha256": "77035d36c31eaaa066744bcd7dc6b2248f5052ed81c2f7328a7336992a5cc969",
+      "size": 1540,
+      "release": "v8.0"
+    },
+    "Data/Local/Quest.bmd": {
+      "sha256": "36cda3e79189e13cfa7f222a5b9757a52d2d771697472c52a859f270862dbbe4",
+      "size": 148800,
+      "release": "v8.0"
+    },
+    "Data/Local/QuestProgress.bmd": {
+      "sha256": "7a06127781fffac83d993d1cdc1f7d1f63a320c790702cf6181165771d82be52",
+      "size": 37515,
+      "release": "v8.0"
+    },
+    "Data/Local/QuestWords.bmd": {
+      "sha256": "96dce43910f95dae57ac3ef22f61b63f78c4d6370827a43aa4aee7496f782fcb",
+      "size": 7086,
+      "release": "v8.0"
+    },
+    "Data/Local/ServerList.bmd": {
+      "sha256": "76085e883f504bf8eb198c9b188100d12b2a7ab3cea0aa7619756a7395ea604c",
+      "size": 54,
+      "release": "v8.0"
+    },
+    "Data/Local/Skill.bmd": {
+      "sha256": "789515cd4f99e03701149a34fd6a50aa95a508cd58872a07b23b44a6c17efa02",
+      "size": 48004,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/BuffEffect_spn.bmd": {
+      "sha256": "3f4843c72a0eb485dcfda32ead70f74f719234d5c0ba2699135592a67d34c255",
+      "size": 24972,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/Dialog_spn.bmd": {
+      "sha256": "5ccd7d98efaf065d5438ad12182bd812e1d2b12e771f58b5624640d568fe3dec",
+      "size": 204800,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/ItemLevelTooltip_spn.bmd": {
+      "sha256": "e320c0f55530d5b39f6284ada86915df223ede41c23aefa9c0cf7267714dff74",
+      "size": 13060,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/ItemTooltipText_spn.bmd": {
+      "sha256": "ffefecb8a9f2fc745ba33644676f50e0914b5d4295ff881f40a66e243cc95f2b",
+      "size": 133124,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/ItemTooltip_spn.bmd": {
+      "sha256": "49fb442d37f6644b9870479911568f33a083173c1a2d14f081e32c706e2f4197",
+      "size": 1015812,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/JewelOfHarmonyOption_spn.bmd": {
+      "sha256": "5bc57e4304613259041d8cf49a0bafda523a24e016688eaf08c8984467820749",
+      "size": 5400,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/JewelOfHarmonySmelt_spn.bmd": {
+      "sha256": "79a28aef72a85d0a2b87a61646e33c5f2a2d27ed21108338423ac35e4ea94199",
+      "size": 557056,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/MasterSkillTooltip_spn.bmd": {
+      "sha256": "b47c78f01c94123ce0c606b9964c091b65449a236dfb67f12e3852d5dee6e559",
+      "size": 315396,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/QuestWords_spn.bmd": {
+      "sha256": "239dbfd51997071c5023067fd1f22ce85344eb39b666db4b13d35d80c11fb91d",
+      "size": 296829,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/Quest_spn.bmd": {
+      "sha256": "2ac66084260538aaa45a0382186060f645efa2911df4afc2c4e8ea4a7967fe1e",
+      "size": 148800,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/Text_spn.bmd": {
+      "sha256": "8b7694be71d51d3ed8a578056f009ccc14be112878ab9599938718aa77654523",
+      "size": 134403,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/item.bmd": {
+      "sha256": "704122cab430bbdb1facd56d622a38d71625d6ee9547b9200dd0589e892fbf46",
+      "size": 688132,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/item_spn.bmd": {
+      "sha256": "de27c37f09d447ba01bf153e8514abc4844c14f089d67a64d0fb2422a638b988",
+      "size": 688132,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/itemsetoption_spn.bmd": {
+      "sha256": "4d8261b95ed382cbacb01e5fedfb13752558e268e13201515fe8a015790306c7",
+      "size": 7044,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/movereq_spn.bmd": {
+      "sha256": "79c77dbd2c2920bbea040857185401dec16f92c6d6a9d90a538bbf6d4124c6fe",
+      "size": 4204,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/skill.bmd": {
+      "sha256": "80f3144aca954ec5463cffb995ef051669fd417bad217071a6c664452d6fa4b5",
+      "size": 52804,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/skill_spn.bmd": {
+      "sha256": "2228f8320fa8dadd120632cdb7dbd6f1b80a04d0294d61d742fb52ffd207ec83",
+      "size": 57204,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/slide_spn.bmd": {
+      "sha256": "d946874839388f57689738ac480bc63218bdfe7c294c693fe9c020ad8d587e18",
+      "size": 41008,
+      "release": "v8.0"
+    },
+    "Data/Local/Spn/socketitem_spn.bmd": {
+      "sha256": "16f9ef4a63c7edb707ab548e0f86b931c9f15a96bf45739ecb508bfa5a034af6",
+      "size": 15600,
+      "release": "v8.0"
+    },
+    "Data/Local/Text.bmd": {
+      "sha256": "5c1fe3b221369fef275e85139e7a4e374d7463248fa6129f934205c867cfbed2",
+      "size": 107759,
+      "release": "v8.0"
+    },
+    "Data/Local/credit.bmd": {
+      "sha256": "0c14720d00bf24f6cd7f864b3f3e90f1a180592886c505bb3c49be62a5831f83",
+      "size": 13200,
+      "release": "v8.0"
+    },
+    "Data/Local/itemsettype.bmd": {
+      "sha256": "75627df8bb200b16bab10eb313ac5415bec017ab2632a438c11eb6fdf3bd1498",
+      "size": 32772,
+      "release": "v8.0"
+    },
+    "Data/Local/mix.bmd": {
+      "sha256": "fa3f7a4bd3b35846812492864c0d36ce4753cc9583d25c1a09d6dcd363629894",
+      "size": 65000,
+      "release": "v8.0"
+    },
+    "Data/Local/pet.bmd": {
+      "sha256": "942adef5b76cdfb7acfc317f6334f8311daf2ccd352bd58403222b726f1f73ff",
+      "size": 2512,
+      "release": "v8.0"
+    },
+    "Data/Skill/skill.bmd": {
+      "sha256": "d789458bf6665f80bc35bab7c5ff05d1a5633ca803a7926ec9bba0df8970a65a",
+      "size": 2432,
+      "release": "v8.0"
+    },
+    "Data/gate.bmd": {
+      "sha256": "dfcd55e110a49985ded2fda42b9bdf43274bf9929f5590b594c9566b747f8640",
+      "size": 7168,
+      "release": "v8.0"
+    },
+    "LeeroyMuLauncher.exe": {
+      "sha256": "7c3624364d6c8591adafece5a37226048c8b9ba5200b116229556d0a7ea4a2e3",
+      "size": 175616,
+      "release": "v8.0"
+    },
+    "MUnique.Client.Library.dll": {
+      "sha256": "7f49bbeccccac8977122e37b07c9c39101d0303fb3cfd2c57b9cf51ed1f161c0",
+      "size": 2673152,
+      "release": "v8.0"
+    },
+    "main.exe": {
+      "sha256": "f767692598be5213d6e40041748486bf1d8ac2c525e10d82a5740b61476f6dc6",
+      "size": 5517312,
+      "release": "v8.0"
+    }
+  }
+}
