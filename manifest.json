@@ -1,6 +1,6 @@
 {
   "version": "8.0",
-  "description": "Evolution quests + all fixes",
+  "description": "Baseline with auto-update launcher",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -322,9 +322,24 @@
       "size": 7168,
       "release": "v8.0"
     },
+    "LeeroyMuLauncher.deps.json": {
+      "sha256": "7482e19f9e1eca53f1e333a38f9ffdfeeba817bfc1920bdb84af5d6e938f4905",
+      "size": 442,
+      "release": "v8.0"
+    },
+    "LeeroyMuLauncher.dll": {
+      "sha256": "693436d5a1840c0f4758715276567239ec35b683cb32a655562a16b21b6d9a9b",
+      "size": 76288,
+      "release": "v8.0"
+    },
     "LeeroyMuLauncher.exe": {
-      "sha256": "7c3624364d6c8591adafece5a37226048c8b9ba5200b116229556d0a7ea4a2e3",
+      "sha256": "a5bf310b0dc761b0b14de6dab5fcd2a2f2c924d93270ea3d669948a5dac60aa2",
       "size": 175616,
+      "release": "v8.0"
+    },
+    "LeeroyMuLauncher.runtimeconfig.json": {
+      "sha256": "96bc2946dff8790400d652ec7f8de7bb043e954980d59470c112788b68a1fbd3",
+      "size": 519,
       "release": "v8.0"
     },
     "MUnique.Client.Library.dll": {
