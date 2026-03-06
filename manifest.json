@@ -1,6 +1,6 @@
 {
-  "version": "8.0",
-  "description": "Baseline with auto-update launcher",
+  "version": "8.1",
+  "description": "Launcher title update test",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -328,9 +328,9 @@
       "release": "v8.0"
     },
     "LeeroyMuLauncher.dll": {
-      "sha256": "1dfc500c9982036f5a68ac265f7d18949e845fc68981585a49f8c61cea1b78aa",
+      "sha256": "2f0a94a29144875a77b95df1d15b8ab5972236dc1806df4b7b6c6550dca9bca9",
       "size": 75776,
-      "release": "v8.0"
+      "release": "v8.1"
     },
     "LeeroyMuLauncher.exe": {
       "sha256": "a5bf310b0dc761b0b14de6dab5fcd2a2f2c924d93270ea3d669948a5dac60aa2",
