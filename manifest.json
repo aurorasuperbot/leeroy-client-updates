@@ -323,13 +323,13 @@
       "release": "v8.0"
     },
     "LeeroyMuLauncher.deps.json": {
-      "sha256": "7482e19f9e1eca53f1e333a38f9ffdfeeba817bfc1920bdb84af5d6e938f4905",
-      "size": 442,
+      "sha256": "659712abf6b63d1dd8369d44d3f503be5eec837b590c9b7731cc63a3ec28e75a",
+      "size": 32152,
       "release": "v8.0"
     },
     "LeeroyMuLauncher.dll": {
-      "sha256": "693436d5a1840c0f4758715276567239ec35b683cb32a655562a16b21b6d9a9b",
-      "size": 76288,
+      "sha256": "1dfc500c9982036f5a68ac265f7d18949e845fc68981585a49f8c61cea1b78aa",
+      "size": 75776,
       "release": "v8.0"
     },
     "LeeroyMuLauncher.exe": {
@@ -338,8 +338,8 @@
       "release": "v8.0"
     },
     "LeeroyMuLauncher.runtimeconfig.json": {
-      "sha256": "96bc2946dff8790400d652ec7f8de7bb043e954980d59470c112788b68a1fbd3",
-      "size": 519,
+      "sha256": "5afd153a4cc50607562806660b4e63e07f6d972ccfa434906a0e0231c3de754f",
+      "size": 527,
       "release": "v8.0"
     },
     "MUnique.Client.Library.dll": {
