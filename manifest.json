@@ -1,6 +1,6 @@
 {
-  "version": "11.3",
-  "description": "Fix MU Helper stuck when surrounded by mobs",
+  "version": "11.4",
+  "description": "Fix MU Helper not attacking when surrounded + buff rebuff fallback",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "9a42232f8e4eb7fd14c5b509475a7b5e68fb226f71af36e161bdab35afd4697c",
+      "sha256": "e5a9c92658ede09f7202264ca122287079529e0ce334957d7639e05b6fec2192",
       "size": 5518848,
-      "release": "v11.3"
+      "release": "v11.4"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
