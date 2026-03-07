@@ -1,6 +1,6 @@
 {
-  "version": "11.1",
-  "description": "Add runtime DLLs (glew32, ogg, vorbisfile, wzAudio) to auto-update",
+  "version": "11.2",
+  "description": "Fix MU Helper getting stuck when mobs block regroup path",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "144141f1569a7e8708f0f2779b2ee97b457f22c8f9e2b6e8db12e5945c0cc327",
+      "sha256": "a5100fef115b2ed11c9afcbffbc0867f86c5476ad02026e917e84761dfaff040",
       "size": 5518336,
-      "release": "v11.0"
+      "release": "v11.2"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
