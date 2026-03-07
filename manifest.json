@@ -1,6 +1,6 @@
 {
-  "version": "11.2",
-  "description": "Fix MU Helper getting stuck when mobs block regroup path",
+  "version": "11.3",
+  "description": "Fix MU Helper stuck when surrounded by mobs",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "a5100fef115b2ed11c9afcbffbc0867f86c5476ad02026e917e84761dfaff040",
-      "size": 5518336,
-      "release": "v11.2"
+      "sha256": "9a42232f8e4eb7fd14c5b509475a7b5e68fb226f71af36e161bdab35afd4697c",
+      "size": 5518848,
+      "release": "v11.3"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
