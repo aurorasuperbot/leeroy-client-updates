@@ -1,6 +1,6 @@
 {
-  "version": "11.0",
-  "description": "Fix MU Helper PvP bug, party drift, Elf Soldier buff for all levels",
+  "version": "11.1",
+  "description": "Add runtime DLLs (glew32, ogg, vorbisfile, wzAudio) to auto-update",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -347,10 +347,30 @@
       "size": 2673152,
       "release": "v8.0"
     },
+    "glew32.dll": {
+      "sha256": "a0822f6b1272689be78221a1b19054007c3f500dc584648a314301e8095d4284",
+      "size": 424960,
+      "release": "v11.1"
+    },
     "main.exe": {
       "sha256": "144141f1569a7e8708f0f2779b2ee97b457f22c8f9e2b6e8db12e5945c0cc327",
       "size": 5518336,
       "release": "v11.0"
+    },
+    "ogg.dll": {
+      "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
+      "size": 53248,
+      "release": "v11.1"
+    },
+    "vorbisfile.dll": {
+      "sha256": "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
+      "size": 999424,
+      "release": "v11.1"
+    },
+    "wzAudio.dll": {
+      "sha256": "4e103af4265081890ea8958b209b90416629c3ca50a7397f90f4df0781acb0db",
+      "size": 212992,
+      "release": "v11.1"
     }
   }
 }
