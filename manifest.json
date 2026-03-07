@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
-  "description": "MU Helper fixes + terrain sync",
+  "version": "11.0",
+  "description": "Fix MU Helper PvP bug, party drift, Elf Soldier buff for all levels",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -348,9 +348,9 @@
       "release": "v8.0"
     },
     "main.exe": {
-      "sha256": "bf1882cfb9a876d2b10bce25b5d925771766c39adf5e9236b0da85052259c66a",
-      "size": 5516800,
-      "release": "v10.0"
+      "sha256": "144141f1569a7e8708f0f2779b2ee97b457f22c8f9e2b6e8db12e5945c0cc327",
+      "size": 5518336,
+      "release": "v11.0"
     }
   }
 }
