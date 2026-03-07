@@ -1,6 +1,6 @@
 {
-  "version": "9.0",
-  "description": "Custom launcher with banner image and dark theme",
+  "version": "10.0",
+  "description": "MU Helper fixes + terrain sync",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -348,9 +348,9 @@
       "release": "v8.0"
     },
     "main.exe": {
-      "sha256": "f767692598be5213d6e40041748486bf1d8ac2c525e10d82a5740b61476f6dc6",
-      "size": 5517312,
-      "release": "v8.0"
+      "sha256": "bf1882cfb9a876d2b10bce25b5d925771766c39adf5e9236b0da85052259c66a",
+      "size": 5516800,
+      "release": "v10.0"
     }
   }
 }
