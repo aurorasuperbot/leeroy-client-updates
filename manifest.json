@@ -1,6 +1,6 @@
 {
-  "version": "11.5",
-  "description": "Fix pet/ring repair spam + surrounded mob attack + buff rebuff",
+  "version": "v11.6",
+  "description": "MU Helper: pick up items between attacks instead of waiting for all monsters to die",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "265af910901c257ba1c3278477bfdf35d432054b09f456d029f60fabffdd165d",
+      "sha256": "e5199d047ae6df46bc27b33e8e4e4a80b3c70ec5c55a27c093aef9b478a03b33",
       "size": 5518848,
-      "release": "v11.5"
+      "release": "vv11.6"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
