@@ -1,5 +1,5 @@
 {
-  "version": "v11.9",
+  "version": "11.9",
   "description": "Revert bad pragma pack on character list struct (crash fix)",
   "files": {
     "Data/Local/BuffEffect.bmd": {
