@@ -1,6 +1,6 @@
 {
-  "version": "11.9",
-  "description": "Revert bad pragma pack on character list struct (crash fix)",
+  "version": "11.10",
+  "description": "Revert ALL bad pragma pack changes - fixes crash on server connect",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "5059e38a7ed21ade52afa81dcac3299d035cae92fb405b097f48d35e3a5f12b2",
+      "sha256": "412750eb2ad2e6383f0320386b5ff0f5b612022682228c587fce3532e07a33cc",
       "size": 5518336,
-      "release": "v11.9"
+      "release": "v11.10"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
