@@ -1,6 +1,6 @@
 {
-  "version": "v11.6",
-  "description": "MU Helper: pick up items between attacks instead of waiting for all monsters to die",
+  "version": "v11.7",
+  "description": "Crywolf event: fix struct packing for packet alignment",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "e5199d047ae6df46bc27b33e8e4e4a80b3c70ec5c55a27c093aef9b478a03b33",
-      "size": 5518848,
-      "release": "vv11.6"
+      "sha256": "ea73fee16542a64c13201929dd19b5160c72b469c701c8e42e90d00a5c70d707",
+      "size": 5518336,
+      "release": "v11.7"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
