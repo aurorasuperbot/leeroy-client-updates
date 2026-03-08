@@ -1,6 +1,6 @@
 {
-  "version": "v11.7",
-  "description": "Crywolf event: fix struct packing for packet alignment",
+  "version": "v11.8",
+  "description": "Fix MG spell graying: #pragma pack on packet structs",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "ea73fee16542a64c13201929dd19b5160c72b469c701c8e42e90d00a5c70d707",
+      "sha256": "9128bac26e0df4bae69975ce0fdf1a9501ebd7e377c8b00cee8a29d651eed13c",
       "size": 5518336,
-      "release": "v11.7"
+      "release": "v11.8"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
