@@ -1,5 +1,5 @@
 {
-  "version": "11.10",
+  "version": "11.11",
   "description": "Revert ALL bad pragma pack changes - fixes crash on server connect",
   "files": {
     "Data/Local/BuffEffect.bmd": {
@@ -372,5 +372,6 @@
       "size": 212992,
       "release": "v11.1"
     }
-  }
+  },
+  "changelog": "Fix Crywolf event hero ranking display (stride mismatch)"
 }
