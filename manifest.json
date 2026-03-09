@@ -1,6 +1,6 @@
 {
-  "version": "11.11",
-  "description": "Revert ALL bad pragma pack changes - fixes crash on server connect",
+  "version": "12.0",
+  "description": "Party + master level fixes",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "412750eb2ad2e6383f0320386b5ff0f5b612022682228c587fce3532e07a33cc",
+      "sha256": "9d2493aaed6909c2cf11d845cc715fa47d07d6e93dab1cd1edc5f49ebb0c98ae",
       "size": 5518336,
-      "release": "v11.10"
+      "release": "v12.0"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
@@ -372,6 +372,5 @@
       "size": 212992,
       "release": "v11.1"
     }
-  },
-  "changelog": "Fix Crywolf event hero ranking display (stride mismatch)"
+  }
 }
