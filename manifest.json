@@ -1,5 +1,5 @@
 {
-  "version": "12.4",
+  "version": "12.5",
   "description": "Client update",
   "files": {
     "Data/Local/BuffEffect.bmd": {
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "277ede096e10bc4cf77d534d73eed30ca79c47d9f02d4e275b8511059508752c",
+      "sha256": "9b6390ff2859311b12d71ecbcb338747107631ace628da093e527c3408debeac",
       "size": 5520384,
-      "release": "v12.4"
+      "release": "v12.5"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
