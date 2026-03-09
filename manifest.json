@@ -1,6 +1,6 @@
 {
-  "version": "12.0",
-  "description": "Party + master level fixes",
+  "version": "12.1",
+  "description": "UI fixes: memory leak, NPC shop texture, mix inventory null check",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "9d2493aaed6909c2cf11d845cc715fa47d07d6e93dab1cd1edc5f49ebb0c98ae",
+      "sha256": "29526ecd6ffc73a4bb0982aeb1b1abe41e98a483e240133ea2ef8e53d7c557c8",
       "size": 5518336,
-      "release": "v12.0"
+      "release": "v12.1"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
