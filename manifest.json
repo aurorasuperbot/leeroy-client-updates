@@ -1,6 +1,6 @@
 {
-  "version": "12.2",
-  "description": "Combo flag fix, shield status fix, evolution quest drop rate 10%",
+  "version": "12.3",
+  "description": "Auto-reconnect on server disconnect (no more force-quit needed)",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "7d9ac10c4a08a7059f8b1a9233c565ef53a788c1cbbc11a48b708bd46dec769f",
-      "size": 5518336,
-      "release": "v12.2"
+      "sha256": "1f444fb97c633286ffcf03fa2b5bb78516970f4e806a6e3e92cb34260cda6024",
+      "size": 5519360,
+      "release": "v12.3"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
