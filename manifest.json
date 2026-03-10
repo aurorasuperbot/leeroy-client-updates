@@ -1,6 +1,6 @@
 {
-  "version": "12.3",
-  "description": "Gens system pragma pack fix",
+  "version": "13.0",
+  "description": "Add Test Server name to server list",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "5d4dcd8087766c80d0acd46af479d321a136ff7d5c69a3c27aecda1032864f63",
+      "sha256": "6d0f524cba5f77bd64fcf3ea66fd568d2171c223ca233e002e3f7c7bc41d0cfb",
       "size": 5520384,
-      "release": "v12.3"
+      "release": "v13.0"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
