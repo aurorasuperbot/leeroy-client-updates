@@ -1,6 +1,6 @@
 {
-  "version": "12.6",
-  "description": "Fix disconnect crash",
+  "version": "12.3",
+  "description": "Gens system pragma pack fix",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "5986dd2c348940c6fdc4b80bee041f2a652895438db1ce1ec3ce49ba7e906a35",
+      "sha256": "5d4dcd8087766c80d0acd46af479d321a136ff7d5c69a3c27aecda1032864f63",
       "size": 5520384,
-      "release": "v12.6"
+      "release": "v12.3"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
