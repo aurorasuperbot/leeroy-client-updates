@@ -1,6 +1,6 @@
 {
-  "version": "13.2",
-  "description": "Fix MU Helper Inferno angle + wandering without attacking",
+  "version": "14.0",
+  "description": "Add /adiccion command, Gens viewport, ReceiveNotice blue chat text fix",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "86398240bb8fd94221f697abf7943875198add105b224d0f40464c3be2437c5b",
+      "sha256": "fc68883548be58a13e6db8f2688b9235efe9ef2658a00fcd46a026bb471c6e9a",
       "size": 5520384,
-      "release": "v13.2"
+      "release": "v14.0"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
