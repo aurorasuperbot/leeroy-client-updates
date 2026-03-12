@@ -1,6 +1,6 @@
 {
-  "version": "14.0",
-  "description": "Add /adiccion command, Gens viewport, ReceiveNotice blue chat text fix",
+  "version": "15.0",
+  "description": "Fix trade system: crash guard, item reroll fix, duplicate request prevention",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "fc68883548be58a13e6db8f2688b9235efe9ef2658a00fcd46a026bb471c6e9a",
-      "size": 5520384,
-      "release": "v14.0"
+      "sha256": "f349df790b1cf786f954493a07f92a7aaf9d4363537d7a03cf456770780619ce",
+      "size": 5521920,
+      "release": "v15.0"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
