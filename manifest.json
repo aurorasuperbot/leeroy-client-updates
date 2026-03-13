@@ -1,6 +1,6 @@
 {
-  "version": "18.1",
-  "description": "Fix Box of Luck ground item models for all 16 levels",
+  "version": "18.2",
+  "description": "Launcher: auto-detect missing VC++ Runtime and offer to install it",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -328,9 +328,9 @@
       "release": "v8.0"
     },
     "LeeroyMuLauncher.dll": {
-      "sha256": "df46655b4e50f37e98fcffef10caf1494664bbeae865ef60bae58e5beb4caf76",
-      "size": 1886720,
-      "release": "v9.0"
+      "sha256": "df24d4bed9a191f67c71e47fe332702a4a9efc29611d4aa404b5a95afe3139a8",
+      "size": 1890816,
+      "release": "v18.2"
     },
     "LeeroyMuLauncher.exe": {
       "sha256": "a5bf310b0dc761b0b14de6dab5fcd2a2f2c924d93270ea3d669948a5dac60aa2",
