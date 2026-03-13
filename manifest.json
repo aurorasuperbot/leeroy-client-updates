@@ -1,6 +1,6 @@
 {
-  "version": "18.0",
-  "description": "Fix crash on Box of Kundun drop from golden monsters",
+  "version": "18.1",
+  "description": "Fix Box of Luck ground item models for all 16 levels",
   "files": {
     "Data/Local/BuffEffect.bmd": {
       "sha256": "8db1c2c5a3b7bd7d9a34eab91e1e4228c713addfeb122001eb9b7b1db63e4223",
@@ -353,9 +353,9 @@
       "release": "v11.1"
     },
     "main.exe": {
-      "sha256": "a7d77894a2dd782c0430681fcf0cd0628d261ddb8ec1d30a66f0791758defa9b",
+      "sha256": "dbde574c5020132f5d284605e3ab9e7eb89a4f82ebe9628283586b7cb8a1beff",
       "size": 5522432,
-      "release": "v18.0"
+      "release": "v18.1"
     },
     "ogg.dll": {
       "sha256": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
